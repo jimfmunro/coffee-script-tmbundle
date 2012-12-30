@@ -2,6 +2,8 @@ CoffeeScript.tmbundle
 ---------------------
 
 A **TextMate Bundle** for the **CoffeeScript** programming language.
+
+Works fine with Sublime Text 2.  I've added the sublime-build file to be able to run scripts with Cmd+B.
     
 Installation:
 -------------
